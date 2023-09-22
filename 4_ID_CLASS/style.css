@@ -1,3 +1,11 @@
+#titulo-id {
+    color: purple;
+}
+
+.cor-amarela {
+    color: yellow;
+}
+
 h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: dimgrey;
@@ -10,7 +18,21 @@ p {
     line-height: 36px;
 }
 
+h2 {
+    color: blue;
+}
+
 .fundo-verde {
     background-color: #0f0;
 }
 
+.fonte-grande {
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background: black;
+    color: white;
+}
+
+/* especificidade */
